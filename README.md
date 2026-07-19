@@ -1,4 +1,4 @@
-# Flatpak repo
+# Steamdeck Fan Control
 
 Script to install jupiter-fan-control on Ubuntu based distros. I tested it specifically on PopOS but it should work on most of them. Inspired by https://aur.archlinux.org/packages/jupiter-fan-control
 
