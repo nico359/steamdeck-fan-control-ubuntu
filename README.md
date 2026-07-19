@@ -20,3 +20,8 @@ You may have to make it executable first with
 ```
 chmod +x steamdeckpop.sh
 ```
+
+## Credits
+
+- steamdeck-dkms package by [firlin123](https://github.com/firlin123/steamdeck-dkms)
+- jupter-fan-control repository by [evlaV](https://gitlab.com/evlaV/jupiter-fan-control.git)
